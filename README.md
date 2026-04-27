@@ -48,3 +48,5 @@ ________________________________________
 •	Interactive storytelling through visuals 
 •	Beginner-friendly yet professional 
 
+<img width="1321" height="437" alt="Sales D" src="https://github.com/user-attachments/assets/ab805822-8bff-4631-b63c-4654377d94ab" />
+
